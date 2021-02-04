@@ -28,5 +28,5 @@ I am...nevermind, that's boring...I do CS, Development, try to learn ML, DL, and
  send me a raven, maybe? or... <br>
   <a target="_blank"href="https://www.linkedin.com/in/mueeze-al-mushabbir/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- <a target="_blank"href="https://twitter.com/mueeze11"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
-  <a href="mailto:almushabbir@iut-dhaka.edu?subject=Hello%20Mueeze,%20From%20Github%20Profile%20View"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:almushabbir@iut-dhaka.edu"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
