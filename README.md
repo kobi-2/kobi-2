@@ -17,8 +17,13 @@ I am...nevermind, that's boring...I do CS, Development, try to learn ML, DL, and
 
 ---
 
-<details>
- <summary> <h3> 🧮 Some Stuff I Know (to show off 😎 jk): </h3> </summary>  
+<!--
+<details> <summary> <h3> 🧮 Some Stuff I Know (to show off 😎 jk): </h3> </summary>
+ ....
+</details> 
+-->
+
+### 🧮 Some Stuff I Know (to show off 😎 jk): 
  <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> </a>&nbsp;&nbsp;
  <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> </a>&nbsp;&nbsp;
  <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/> </a>&nbsp;&nbsp;
@@ -31,7 +36,7 @@ I am...nevermind, that's boring...I do CS, Development, try to learn ML, DL, and
  <img alt="Unity" src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/> </a>&nbsp;&nbsp;
  <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /> </a>&nbsp;&nbsp;
  <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /> </a>&nbsp;&nbsp;
-</details> 
+
 
 ---
 
