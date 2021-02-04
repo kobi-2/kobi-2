@@ -10,7 +10,7 @@ I am...nevermind, that's boring...I do CS, Development, try to learn ML, DL, and
 <!-- - 🤔 I’m looking for help with ... -->
 - 🍕 My current interests (except eating pizza) are: ML, NLP, HCI
 - 💬 (Don't) Ask me about: anything
-- 📫 How to reach me: [Email](almushabbir@iut-dhaka.edu)
+- 📫 How to reach me: send a raven maybe? or maybe just an email at [almushabbir@iut-dhaka.edu](almushabbir@iut-dhaka.edu)
 <!-- - ⚡ Fun fact: ... --> 
 
 - 🧮 Some langauge/tools i know (to show off😎): 🐍 ☕ c c++ c# Kotlin (couldn't find any emojis for these 😏)
