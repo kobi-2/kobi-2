@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am...nevermind...I do CS, Development, try to learn ML, DL, and umm stuffs :) 
+I am...nevermind, that's boring...I do CS, Development, try to learn ML, DL, and umm stuffs :) 
 <!--
 **kobi-2/kobi-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
