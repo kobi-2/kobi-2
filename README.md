@@ -23,7 +23,7 @@ I am...nevermind, that's boring...I do CS, Development, try to learn ML, DL, and
 </details> 
 -->
 
-### 🧮 Some Stuff I Know (to show off 😎 jk):
+### 🧮 Some Stuff I Know (to show off 😎 jk)
 <p>
  <br>
  <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> </a>&nbsp;&nbsp;
