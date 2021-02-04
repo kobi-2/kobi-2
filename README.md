@@ -7,8 +7,8 @@ I am...nevermind, that's boring...I do CS, Development, try to learn ML, DL, and
 
 - 🔭 I’m currently working on (as if): a dsp project 😑 
 - 🌱 I’m currently learning (if i get anytime after all the rest i take 😛):  web dev 
-<!-- - 👯 I’m looking to collaborate on: -->
 - 🤝 I’m looking to (ehem) collaborate on : almost anything exciting 😅  
+<!-- - 👯 I’m looking to collaborate on: -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 🍕 My current interests (except eating pizza) are: ML, NLP, HCI  
 - 💬 (Don't) Ask me about: anything  
