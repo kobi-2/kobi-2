@@ -3,7 +3,6 @@ I am...nevermind, that's boring...I do CS, Development, try to learn ML, DL, and
 <!--
 **kobi-2/kobi-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
----
 
 - 🔭 I’m currently working on (as if): a dsp project 😑 
 - 🌱 I’m currently learning (if i get anytime after all the rest i take 😛):  web dev 
@@ -14,6 +13,7 @@ I am...nevermind, that's boring...I do CS, Development, try to learn ML, DL, and
 - 💬 (Don't) Ask me about: anything  
 <!-- - 📫 How to reach me: send a raven maybe? or maybe just an email at [almushabbir@iut-dhaka.edu](almushabbir@iut-dhaka.edu) -->
 <!-- - ⚡ Fun fact: ... --> 
+
 
 ---
 
@@ -39,6 +39,7 @@ I am...nevermind, that's boring...I do CS, Development, try to learn ML, DL, and
 
 
 ---
+
 
 ### 📫 How to Reach Me
 <p>
