@@ -5,7 +5,7 @@ I am...nevermind...I do CS, Development, try to learn ML, DL, and umm stuffs :)
 
 
 - 🔭 I’m currently working on (as if): a dsp project 😑
-- 🌱 I’m currently learning (if i get anytime after all the rest i take 😛) : more web dev 
+- 🌱 I’m currently learning (if i get anytime after all the rest i take 😛):  web dev 
 - 👯 I’m looking to (ehem) collaborate on : almost anything exciting 😅
 <!-- - 🤔 I’m looking for help with ... -->
 - 🍕 My current interests (except eating pizza) are: ML, NLP, HCI
