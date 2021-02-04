@@ -3,7 +3,8 @@ I am...nevermind, that's boring...I do CS, Development, try to learn ML, DL, and
 <!--
 **kobi-2/kobi-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-
+<details>
+<summary>stuffs</summary>
 - 🔭 I’m currently working on (as if): a dsp project 😑
 - 🌱 I’m currently learning (if i get anytime after all the rest i take 😛):  web dev 
 - 👯 I’m looking to (ehem) collaborate on : almost anything exciting 😅
@@ -14,3 +15,4 @@ I am...nevermind, that's boring...I do CS, Development, try to learn ML, DL, and
 <!-- - ⚡ Fun fact: ... --> 
 
 - 🧮 Some langauge/tools i know (to show off😎): 🐍 ☕ c c++ c# Kotlin (couldn't find any emojis for these 😏)
+ </details> 
