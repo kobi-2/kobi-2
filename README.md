@@ -5,14 +5,14 @@ I am...nevermind, that's boring...I do CS, Development, try to learn ML, DL, and
 
 <details>
 <summary>:zap: stuffs</summary>
-- 🔭 I’m currently working on (as if): a dsp project 😑 <br>
-- 🌱 I’m currently learning (if i get anytime after all the rest i take 😛):  web dev <br>
-- 👯 I’m looking to (ehem) collaborate on : almost anything exciting 😅  <br>
+- 🔭 I’m currently working on (as if): a dsp project 😑 
+- 🌱 I’m currently learning (if i get anytime after all the rest i take 😛):  web dev 
+- 👯 I’m looking to (ehem) collaborate on : almost anything exciting 😅  
 <!-- - 🤔 I’m looking for help with ... -->
-- 🍕 My current interests (except eating pizza) are: ML, NLP, HCI  <br>
-- 💬 (Don't) Ask me about: anything  <br>
-- 📫 How to reach me: send a raven maybe? or maybe just an email at [almushabbir@iut-dhaka.edu](almushabbir@iut-dhaka.edu)  <br>
+- 🍕 My current interests (except eating pizza) are: ML, NLP, HCI  
+- 💬 (Don't) Ask me about: anything  
+- 📫 How to reach me: send a raven maybe? or maybe just an email at [almushabbir@iut-dhaka.edu](almushabbir@iut-dhaka.edu)  
 <!-- - ⚡ Fun fact: ... --> 
 
-- 🧮 Some langauge/tools i know (to show off😎): 🐍 ☕ c c++ c# Kotlin (couldn't find any emojis for these 😏) <br>
+- 🧮 Some langauge/tools i know (to show off😎): 🐍 ☕ c c++ c# Kotlin (couldn't find any emojis for these 😏) 
  </details> 
