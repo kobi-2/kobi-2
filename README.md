@@ -4,7 +4,7 @@ I am...nevermind, that's boring...I do CS, Development, try to learn ML, DL, and
 **kobi-2/kobi-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-- 🔭 I’m currently working on (as if): a dsp project 😑 
+- 🔭 I’m currently working on (as if): nothing really 😑 
 - 🌱 I’m currently learning (if i get anytime after all the rest i take 😛):  web dev 
 - 🤝 I’m looking to (ehem) collaborate on : almost anything exciting 😅  
 <!-- - 👯 I’m looking to collaborate on: -->
@@ -43,9 +43,8 @@ I am...nevermind, that's boring...I do CS, Development, try to learn ML, DL, and
 ---
 
 
-### 📫 How to Reach Me
+### 📫 How to Reach Me (except sending a raven)
 <p>
- send me a raven, maybe? or... <br> <br>
  <!-- generate shields.io badge: https://img.shields.io/badge/-LABEL-%COLOR?&style=STYLE&logo=SIMPLEICONS/LOGO&color=COLOR&logoColor=LOGOCOLOR -->
   <a target="_blank"href="https://www.linkedin.com/in/mueeze-al-mushabbir/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
  <a target="_blank"href="https://www.kaggle.com/mueezealmushabbir"><img src="https://img.shields.io/badge/-Kaggle-%2320BEFF?&style=for-the-badge&logo=Kaggle&color=grey" /></a>&nbsp;&nbsp;
