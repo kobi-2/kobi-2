@@ -2,7 +2,9 @@
 Documentation: 
 1.https://shields.io/ 
 2. https://simpleicons.org/ 
-3. 
+3. creating badges...
+generate shields.io badge: https://img.shields.io/badge/-LABEL-%COLOR?&style=STYLE&logo=SIMPLEICONS/LOGO&color=COLOR&logoColor=LOGOCOLOR 
+4. 
 -->
 
 ### Hi there 👋
@@ -49,12 +51,22 @@ I am...nevermind, that's boring...I do CS, Development, try to learn ML, DL, and
 
 ---
 
+<!-- Badge documentation...
+generate shields.io badge: https://img.shields.io/badge/-LABEL-%COLOR?&style=STYLE&logo=SIMPLEICONS/LOGO&color=COLOR&logoColor=LOGOCOLOR -->
+
+### My Other Accounts
+
+<p>
+<a target="_blank"href="https://www.kaggle.com/mueezealmushabbir"><img src="https://img.shields.io/badge/-Kaggle-%2320BEFF?&style=for-the-badge&logo=Kaggle&color=grey" /></a>&nbsp;&nbsp;
+<a target="_blank"href="https://codeforces.com/profile/_kobi"><img src="https://img.shields.io/badge/-Codeforces-%1F8ACB.svg?&style=for-the-badge&logo=Codeforces&color=grey&logoColor=1F8ACB" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
+
 
 ### 📫 How to Reach Me (except sending a raven)
 <p>
  <!-- generate shields.io badge: https://img.shields.io/badge/-LABEL-%COLOR?&style=STYLE&logo=SIMPLEICONS/LOGO&color=COLOR&logoColor=LOGOCOLOR -->
   <a target="_blank"href="https://www.linkedin.com/in/mueeze-al-mushabbir/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
- <a target="_blank"href="https://www.kaggle.com/mueezealmushabbir"><img src="https://img.shields.io/badge/-Kaggle-%2320BEFF?&style=for-the-badge&logo=Kaggle&color=grey" /></a>&nbsp;&nbsp;
   <!-- <a target="_blank"href="https://twitter.com/mueeze11"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
   <a href="mailto:almushabbir@iut-dhaka.edu"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
