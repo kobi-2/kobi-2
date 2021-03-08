@@ -1,3 +1,10 @@
+<!--
+Documentation: 
+1.https://shields.io/ 
+2. https://simpleicons.org/ 
+3. 
+-->
+
 ### Hi there 👋
 I am...nevermind, that's boring...I do CS, Development, try to learn ML, DL, and umm some stuffs :) 
 <!--
