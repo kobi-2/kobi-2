@@ -14,7 +14,7 @@ I am...nevermind, that's boring...I do CS, Development, try to learn ML, DL, and
 
 
 - 🔭 I’m currently working on (as if): wordpress 
-- 🌱 I’m currently learning (if i get anytime after all the rest i take 😛):  web dev 
+- 🌱 I’m currently learning (if i get any time after all the rest i take 😛):  web dev 
 - 🤝 I’m looking to (ehem) collaborate on : almost anything exciting 😅  
 <!-- - 👯 I’m looking to collaborate on: -->
 <!-- - 🤔 I’m looking for help with ... -->
