@@ -54,7 +54,7 @@ I am...nevermind, that's boring...I do CS, Development, try to learn ML, DL, and
 <!-- Badge documentation...
 generate shields.io badge: https://img.shields.io/badge/-LABEL-%COLOR?&style=STYLE&logo=SIMPLEICONS/LOGO&color=COLOR&logoColor=LOGOCOLOR -->
 
-### My Other Accounts
+### My Other Accounts (if you're not impressed already 😉)
 
 <p>
 <a target="_blank"href="https://www.kaggle.com/mueezealmushabbir"><img src="https://img.shields.io/badge/-Kaggle-%2320BEFF?&style=for-the-badge&logo=Kaggle&color=grey" /></a>&nbsp;&nbsp;
