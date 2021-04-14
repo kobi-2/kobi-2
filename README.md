@@ -61,9 +61,9 @@ generate shields.io badge: https://img.shields.io/badge/-LABEL-%COLOR?&style=STY
 <a target="_blank"href="https://codeforces.com/profile/_kobi"><img src="https://img.shields.io/badge/-Codeforces-%1F8ACB.svg?&style=for-the-badge&logo=Codeforces&color=grey&logoColor=1F8ACB" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 --><!--
 </p>
+---
 -->
 
----
 
 ### 📫 How to Reach Me (except sending a raven)
 <p>
