@@ -8,7 +8,7 @@ generate shields.io badge: https://img.shields.io/badge/-LABEL-%COLOR?&style=STY
 -->
 
 ### Hi there 👋
-I do CS, Development, try to learn ML, DL, and umm some stuffs :) 
+I do CS, Development (only the interesting ones:) ), try to learn AI/ML, and umm some stuffs :) 
 <!--
 **kobi-2/kobi-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
