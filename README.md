@@ -13,11 +13,11 @@ I do CS, Development, try to learn ML, DL, and umm some stuffs :)
 **kobi-2/kobi-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-- 🔭 I’m currently working on (as if): AI (System 2, Neuro-symbolic)
+- 🔭 I’m currently working on (as if): AI (System 2, Neuro-symbolic, Reasoning)
 - 🌱 I’m currently learning (if I get any time after all the rest I take 😛):  varieties of stuff 
 - 🤝 I’m looking to (ehem) collaborate on: almost anything exciting 😅  
 <!-- - 👯 I’m looking to collaborate on: -->
-<!-- - 🤔 I’m looking for help with ... -->
+- 🤔 I’m looking for help with: Neuro-symbolic AI, Cognitive AI, ARC AGI 🤷
 - 🍕 My current interests (except eating pizza) are: AI, Reasoning
 - 💬 (Don't) Ask me about: anything  
 <!-- - 📫 How to reach me: send a raven maybe? or maybe just an email at [almushabbir@iut-dhaka.edu](almushabbir@iut-dhaka.edu) -->
